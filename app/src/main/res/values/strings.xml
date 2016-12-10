@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculate</string>
+    <string name="btn_width">80dp</string>
+    <string name="btn_doule_width">170dp</string>
+    <string name="btn_height">80dp</string>
+    <string name="btn_doule_height">160dp</string>
+    <string name="btn_margin_left">6dp</string>
+</resources>
